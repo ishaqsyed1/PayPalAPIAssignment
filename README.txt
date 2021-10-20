@@ -1,7 +1,7 @@
 
 COMP 2406 Assignment 5
 
-Created by: Ishaq Syed(101032695) and Abdul-Malik Marikar(101042166)
+Created by: Ishaq Syed and Abdul-Malik Marikar
 
 Version: Node(8.9.4) OS:Windows 10, Mac.
 
